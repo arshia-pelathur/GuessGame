@@ -1,0 +1,20 @@
+/* style.css */
+.stApp {
+    background-color: black;
+    color: orange;
+}
+.stButton>button {
+    background-color: black;
+    color: white;
+    border: 2px solid orange;
+}
+
+h1 {
+    color: white;
+    font-size: 34px;  
+}
+
+.message {
+    color: yellow;  /* Change this to the desired color */
+    font-size: 20px;  /* Adjust the size as needed */
+}
