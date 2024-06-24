@@ -10,7 +10,10 @@ You can try out the Guess Game by visiting the following Deployed link of the we
 ## Video Demonstration
 
 Watch a demonstration of the Guess Game in action:
-![Guess Game Demo](demo.mp4)
+
+<video width="600" controls>
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
 
 
